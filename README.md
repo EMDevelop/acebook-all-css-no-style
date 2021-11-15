@@ -2,6 +2,10 @@
 
 This project is a clone of Facebook
 
+# Preview
+
+![](https://github.com/EMDevelop/public_resources/blob/main/gifs/CryptoAddressWeb/EthereumAddressChecker.gif)
+
 ### The Team
 
 [![Luke](https://img.icons8.com/nolan/25/github.png)](https://github.com/99ltaylor) Luke |
@@ -16,6 +20,7 @@ This project is a clone of Facebook
 - Clone this repo running `git clone https://github.com/99ltaylor/acebook-all-css-no-style.git`
 
 - Run these commands
+
 ```
 bundle install
 bin/rails db:create
@@ -23,16 +28,18 @@ bin/rails db:migrate
 bundle exec rspec
 ```
 
-- Run `rackup` or bin/rails server to start the web server 
+- Run `rackup` or bin/rails server to start the web server
 
 ### Planning
 
 #### MVP
+
 ![MVP](https://github.com/Jjake540/Project_resourses/blob/main/acebook/MVP%20-%20acebook.png?raw=true 'MVP')
 
 #### Wireframe
 
 ![wireframe](https://github.com/Jjake540/Project_resourses/blob/main/acebook/Wireframe%20-%20acebook-%20update.png?raw=true 'wireframe')
+
 #### Trello
 
 We've organised our working day using a Trello board, following Agile principles.
