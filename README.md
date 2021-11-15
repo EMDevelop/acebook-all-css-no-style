@@ -4,7 +4,7 @@ This project is a clone of Facebook
 
 # Preview
 
-![](https://github.com/EMDevelop/public_resources/blob/main/gifs/CryptoAddressWeb/EthereumAddressChecker.gif)
+![](https://raw.githubusercontent.com/EMDevelop/public_resources/main/gifs/AllStyleNoCSS/demo.gif)
 
 ### The Team
 
